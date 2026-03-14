@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "TRT 1",
+    "category": "Ulusal Kanallar",
+    "url": "https://trtcanlitv-lh.akamaihd.net/i/TRT1_1@181844/index_1500_av-p.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_1_logo.svg/512px-TRT_1_logo.svg.png",
+    "description": "Türkiye'nin ilk televizyon kanalı."
+  },
+  {
+    "id": "2",
+    "name": "TRT Haber",
+    "category": "Haber Kanalları",
+    "url": "https://trtcanlitv-lh.akamaihd.net/i/TRTHABER_1@181842/index_1500_av-p.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TRT_Haber_logo.svg/512px-TRT_Haber_logo.svg.png",
+    "description": "Güncel haberler ve analizler."
+  },
+  {
+    "id": "3",
+    "name": "TRT Spor",
+    "category": "Spor Kanalları",
+    "url": "https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR_1@181843/index_1500_av-p.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TRT_Spor_logo.svg/512px-TRT_Spor_logo.svg.png",
+    "description": "Spor dünyasından canlı yayınlar."
+  },
+  {
+    "id": "4",
+    "name": "TRT Çocuk",
+    "category": "Çocuk Kanalları",
+    "url": "https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181845/index_1500_av-p.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/TRT_%C3%87ocuk_logo.svg/512px-TRT_%C3%87ocuk_logo.svg.png",
+    "description": "Çocuklar için eğitici ve eğlenceli içerikler."
+  },
+  {
+    "id": "5",
+    "name": "TRT Belgesel",
+    "category": "Belgesel Kanalları",
+    "url": "https://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@181846/index_1500_av-p.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TRT_Belgesel_logo.svg/512px-TRT_Belgesel_logo.svg.png",
+    "description": "Doğa, tarih ve kültür belgeselleri."
+  }
+]

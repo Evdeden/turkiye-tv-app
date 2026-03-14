@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Leanback">
+        <item name="browseTitleViewStyle">@style/CustomBrowseTitleStyle</item>
+        <item name="defaultBrandColor">@color/primary_dark</item>
+        <item name="searchAffordanceColor">@color/accent</item>
+    </style>
+
+    <style name="CustomBrowseTitleStyle" parent="Widget.Leanback.TitleView">
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <style name="PlayerTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
